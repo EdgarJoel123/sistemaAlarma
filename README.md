@@ -33,5 +33,4 @@ $ Open the project and install the dependencies.
 ## Collaboration
 ***
 As a collaboration request, it would be asked if you could transfer the application to a server where a countless number of alert requests can be made.
-> It should go over several rows?
-> This is how you do it.
+
