@@ -1,9 +1,9 @@
 ## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-### 📝 General Info
+1. 📝 [General Info](#general-info)
+2. 📊 [Technologies](#technologies)
+3. 💻 [Installation](#installation)
+4. 👥 [Collaboration](#collaboration)
+### General Info
 ***
 The system itself is a final course project for the subject of distributed applications, which is focused on an emergency alarm for the company "Favorita." As such, the system is complete, but the server used to send the alerts is free and therefore has a limit on the number of alerts.
 ### Screenshot
@@ -14,14 +14,14 @@ The system itself is a final course project for the subject of distributed appli
 
 
 
-## 📊 Technologies
+## Technologies
 
 ***A list of technologies used within the project:
 * [One Signa](https://dashboard.onesignal.com/login?redirect_uri=/apps)
 * [Firebase](https://console.firebase.google.com/)
 * [Android Studio].(https://developer.android.com/studio) (java)
   
-## 💻 Installation
+## Installation
 ***
 A little intro about the installation. 
 ```
